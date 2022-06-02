@@ -6,6 +6,7 @@
 - Apache Kafka
 - Next.js
 - Apollo Client (GraphQL)
+- Docker
 
 ## Funcionalidades
 
